@@ -1,0 +1,17 @@
+.btn-purple {
+	background-color: #F3E1FF;
+	padding: 15px 20px;
+	border: 4px;
+	color: #94bad9;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	}
+
+.btn-blue {
+	background-color: #bde2ff;
+	padding: 15px 20px;
+	border: 4px;
+	color:#0f81dd;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	}
